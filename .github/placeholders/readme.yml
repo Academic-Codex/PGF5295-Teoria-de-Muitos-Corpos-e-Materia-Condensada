@@ -1,0 +1,12 @@
+REPO_TAGLINE: Many-body theory • condensed matter • correlations
+ASSETS_DIR: .github/readme
+CTA_TEXT: Upcoming topic ...
+THEME: workload
+SITE_URL: https://academic-codex.github.io/PGF5295-Teoria-de-Muitos-Corpos-e-Materia-Condensada
+
+BG_1: "#082F49"
+BG_2: "#0C4A6E"
+TEXT_MAIN: "#F0F9FF"
+TEXT_MUTED: "#BAE6FD"
+ACCENT: "#38BDF8"
+CARD_RADIUS: "18"
