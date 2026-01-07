@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/PGF5295-Teoria-de-Muitos-Corpos-e-Materia-Condensada">
-    <img src=".github/readme/hero.svg?v=2026-01-06T15:36:37.535702Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-07T03:39:16.781185Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
