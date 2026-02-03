@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/PGF5295-Teoria-de-Muitos-Corpos-e-Materia-Condensada">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:28.868884Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/PGF5295-Teoria-de-Muitos-Corpos-e-Materia-Condensada?utm_source=PGF5295-Teoria-de-Muitos-Corpos-e-Materia-Condensada&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:20.030973Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
